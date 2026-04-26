@@ -3,6 +3,9 @@ PwC-Call-Center-Performance-Dashboard-Power-Bi-Project
 **Overview**
 This project analyzes call center operations data to evaluate agent performance, customer satisfaction, and operational efficiency. The dashboard enables leadership to identify trends, optimize response times, and improve service quality.
 
+<img width="735" height="407" alt="Call Center Performance Dashboard (PwC)" src="https://github.com/user-attachments/assets/2b65bef0-a67e-450b-9602-083ed96a379b" />
+
+
 **Business Objective**
 1. Monitor overall call center performance
 2. Analyze agent efficiency and responsiveness
